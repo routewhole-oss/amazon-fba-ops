@@ -1,0 +1,6 @@
+fastmcp>=3.4.5
+python-amazon-sp-api>=2.1.16
+python-dotenv>=1.0.0
+
+[dev]
+pytest>=8.0.0

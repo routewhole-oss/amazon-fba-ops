@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: amazon-mcp
+Version: 0.1.0
+Summary: Local MCP server for Amazon FBA profitability tracking and inventory alerts via SP-API
+Requires-Python: >=3.10
+Requires-Dist: fastmcp>=3.4.5
+Requires-Dist: python-amazon-sp-api>=2.1.16
+Requires-Dist: python-dotenv>=1.0.0
+Provides-Extra: dev
+Requires-Dist: pytest>=8.0.0; extra == "dev"
